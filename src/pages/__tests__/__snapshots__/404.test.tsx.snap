@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Page404 /> snapshot 1`] = `
+<section
+  class="css-h3xh94"
+>
+  <img
+    alt="404"
+    class="css-wbx0un"
+    src="404.gif"
+  />
+  <h2>
+    Woopsy
+  </h2>
+  <p>
+    Lost, aren't you ?
+  </p>
+  <button
+    class="css-lyx6qd"
+  >
+    Let's go back
+  </button>
+</section>
+`;

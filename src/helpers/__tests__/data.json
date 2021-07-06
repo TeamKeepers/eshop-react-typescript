@@ -1,0 +1,41 @@
+{
+    "strings": {
+        "tests": [
+            "Natus nesciunt repellendus minima perspiciatis praesentium sapiente cum.",
+            "Fugit sequi dolor consequatur hic voluptas delectus voluptatem.",
+            "Ratione accusamus quia necessitatibus omnis officia aut eveniet.",
+            "Maiores et cum ipsa fuga.",
+            "Iure quibusdam molestiae molestiae animi quo nisi consequatur."
+        ],
+        "results":[
+            "Natus nesciunt repellendus minima perspiciatis pra...",
+            "Fugit sequi dolor consequatur hic voluptas delectu...",
+            "Ratione accusamus quia necessitatibus omnis offici...",
+            "Maiores et cum ipsa fuga.",
+            "Iure quibusdam molestiae molestiae animi quo nisi ..."
+        ]
+    },
+    "numbers": {
+        "tests": [
+            61300,
+            495600,
+            2345678
+        ]
+    },
+    "dates": {
+        "tests": [
+            "2021-04-07T12:19:48+00:00",
+            "2021-05-06T12:19:48+00:00",
+            "2020-01-02T12:19:48+00:00",
+            "2019-03-21T10:10:10+00:00",
+            "2021-09-12T21:19:50+00:00"
+        ],
+        "results":[
+            "April 7, 2021",
+            "May 6, 2021",
+            "January 2, 2020",
+            "March 21, 2019",
+            "September 12, 2021"
+        ]
+    }
+}

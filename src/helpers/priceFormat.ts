@@ -1,0 +1,2 @@
+// From the price as input (FLOAT), return a string as output with Swiss currency
+export const formatPrice = (price: number) : string => new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' }).format(price/100)

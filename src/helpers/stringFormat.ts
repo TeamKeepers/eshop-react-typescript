@@ -1,0 +1,2 @@
+// From the title as input (STRING), return a string as output to avoid long title that will render unclean product cards
+export const formatTitle = (title: string) : string => title.length > 50 ? `${title.substring(0, 50)}...` : title
